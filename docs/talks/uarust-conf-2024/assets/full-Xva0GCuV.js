@@ -1,0 +1,1 @@
+import{o as t,b as o,f as e}from"./modules/vue-BIzUUY1N.js";import{_ as l}from"./index-C9vGqMrF.js";const _="/talks/uarust-conf-2024/assets/uarust-2024-cover-CkRcwdFk.png",c={},r={class:"slidev-layout full w-full h-full"};function a(s,n){return t(),o("div",r,[e(s.$slots,"default",{class:"w-full h-full"})])}const d=l(c,[["render",a]]);export{d as I,_};
