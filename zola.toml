@@ -4,13 +4,19 @@ base_url = "https://ivan.fraixed.es"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+# The site theme to use
+theme = "kissi"
 
-[markdown]
+# When set to "true", the generated HTML files are minified.
+minify_html = true
 
-[markdown.highlighting]
-theme = "catppuccin-mocha"
-
-[extra]
-# Put all your custom variables here
+[extra.kissi]
+portrait = "portrait.png"
+fullname = "Ivan Fraixedes"
+tagline = "Software Engineer"
+links = [
+    { title = "github", url = "https://github.com/ifraixedes", icon = "github" },
+    { title = "linkedin", url = "https://linkedin.com/in/ifraixedes", icon = "linkedin-in" },
+    { title = "my blog", url = "https://blog.fraixed.es", text = "blog" },
+    { title = "cv", url = "/files/CV_Ivan_Fraixedes.pdf", text = "CV" },
+]

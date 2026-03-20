@@ -1,0 +1,3 @@
+[submodule "themes/kissi"]
+	path = themes/kissi
+	url = git@github.com:ifraixedes/zola-kissi.git
