@@ -19,4 +19,5 @@ links = [
     { title = "linkedin", url = "https://linkedin.com/in/ifraixedes", icon = "linkedin-in" },
     { title = "my blog", url = "https://blog.fraixed.es", text = "blog" },
     { title = "cv", url = "/files/CV_Ivan_Fraixedes.pdf", text = "CV" },
+    { title = "talks", url = "https://www.youtube.com/playlist?list=PLq3ZCWgABWn78SzUgQ5GGKQdUYlVvId1-", icon = "youtube"},
 ]
